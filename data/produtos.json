@@ -1,0 +1,800 @@
+[
+  {
+    "id": 1,
+    "nomeProduto": "Relógio Eletrônico Com Tela LED",
+    "fabricante": "rp-relogios",
+    "categoria": "Eletrônicos",
+    "preco": "R$ 19,75",
+    "descricaoDetalhada": "Relógio Eletrônico Com Tela LED.",
+    "linkAfiliado": "https://s.shopee.com.br/30c9vnndHD",
+    "imagens": [
+      "img/produtos-eletronicos/relogio-eletronico-1.webp",
+      "img/produtos-eletronicos/relogio-eletronico-2.webp"
+
+     
+    ]
+  },
+  {
+    "id": 2,
+    "nomeProduto": "câmera iP robô",
+    "fabricante": "Shenzhen KOK Communication Co.",
+    "categoria": "Eletrônicos",
+    "preco": "R$ 78,98",
+    "descricaoDetalhada": "câmera iP robô 3 antenas wifi visão noturna full HD 360º microfone áudio babá eletrônica robozinho sem fio app yoosee.",
+    "linkAfiliado": "https://s.shopee.com.br/5L04iVhNSu",
+    "imagens": [
+      "img/produtos-eletronicos/camera-ip-robo-1.webp", 
+      "img/produtos-eletronicos/camera-ip-robo-2.webp",
+      "img/produtos-eletronicos/camera-ip-robo-3.webp",
+      "img/produtos-eletronicos/camera-ip-robo-4.webp",
+      "img/produtos-eletronicos/camera-ip-robo-5.webp"
+      
+      
+    ]
+  },
+  {
+    "id": 3,
+    "nomeProduto": "Balança Humana Digital Eletrônica Até 180kg Vidro Temperado",
+    "fabricante": "Mament",
+    "categoria": "Eletrônicos",
+    "preco": "R$ 39,01",
+    "descricaoDetalhada": "Balança Humana Digital Eletrônica Até 180kg Vidro Temperado.",
+    "linkAfiliado": "https://s.shopee.com.br/20jckihFkp",
+    "imagens": [
+      "img/produtos-eletronicos/balança-digital-1.webp",
+      "img/produtos-eletronicos/balança-digital-2.webp",
+      "img/produtos-eletronicos/balança-digital-3.webp",
+      "img/produtos-eletronicos/balança-digital-4.webp",
+      "img/produtos-eletronicos/balança-digital-5.webp"
+      
+    ]
+  },
+  {
+    "id": 4,
+    "nomeProduto": "lâmpadas LED ",
+    "fabricante": "LED Light",
+    "categoria": "Eletrônicos",
+    "preco": "R$ 14,85",
+    "descricaoDetalhada": "2pcs lâmpadas LED 1156 BA15S P21W BAU15S PY21W T20 7440 W21W 3157 1157 P21/5W W21/5W com 144 smd para luz de sinalização.",
+    "linkAfiliado": "https://s.shopee.com.br/BHyaC2QOx",
+    "imagens": [
+      "img/produtos-eletronicos/lampada-led-1.webp",
+      "img/produtos-eletronicos/lampada-led-2.webp",
+      "img/produtos-eletronicos/lampada-led-3.webp",
+      "img/produtos-eletronicos/lampada-led-4.webp"
+      
+    ]
+  },
+  {
+    "id":5,
+    "nomeProduto": "Camera Ip Seguraca Lampada Wifi 360 ful HD sem fio",
+    "fabricante": " piu style",
+    "categoria": "Eletrônicos",
+    "preco": "R$ 89,99",
+    "descricaoDetalhada": "Camera Ip Seguraca Lampada Wifi 360 ful HD sem fio.",
+    "linkAfiliado": "https://s.shopee.com.br/3frqlCetES",
+    "imagens": [
+      "img/produtos-eletronicos/camera-lampada-1.webp",
+      "img/produtos-eletronicos/camera-lampada-2.webp",
+      "img/produtos-eletronicos/camera-lampada-3.webp"
+      
+     
+    ]
+  },
+
+
+  {
+    "id": 51,
+    "nomeProduto": "Videogame Retrô Com 620 Jogos",
+    "fabricante": "Vídeo Game Retrô",
+    "categoria": "Games",
+    "preco": "R$ 57,53",
+    "descricaoDetalhada": "Console de Videogame Retrô com 620 Jogos Clássicos Plug Play Com Controle.",
+    "linkAfiliado": "https://s.shopee.com.br/9UpdiNOyFu",
+    "imagens": [
+      "img/produtos-games/videogame-retro-1.webp",
+      "img/produtos-games/videogame-retro-2.webp",
+      "img/produtos-games/videogame-retro-3.webp",
+      "img/produtos-games/videogame-retro-4.webp",
+      "img/produtos-games/videogame-retro-5.webp"
+      
+      
+    ]
+  },
+  {
+    "id":52,
+    "nomeProduto": "Xbox One 500GB",
+    "fabricante": "Microsoft",
+    "categoria": "Games",
+    "preco": "R$ 999,90",
+    "descricaoDetalhada": "Xbox One 500GB Completo + Controle Original + Cabo HDMI. Console Videogame Microsoft com Nota Fiscal e Garantia.",
+    "linkAfiliado": "https://s.shopee.com.br/9ACnK7v1Em",
+    "imagens": [
+      "img/produtos-games/xbox-one-1.webp",
+      "img/produtos-games/xbox-one-2.webp",
+      "img/produtos-games/xbox-one-3.webp",
+      "img/produtos-games/xbox-one-4.webp"
+      
+      
+    ]
+  },
+  {
+    "id":53,
+    "nomeProduto": "video game portátil R35S",
+    "fabricante": "RETRO GAMES",
+    "categoria": "Games",
+    "preco": "R$ 221,88",
+    "descricaoDetalhada": "R35S Retro Console de video game portátil Sistema Linux Tela IPS de 3,5 polegadas 64 GB Player 15000 para PS1/N64/PSP.",
+    "linkAfiliado": "https://s.shopee.com.br/30c9zayEFq",
+    "imagens": [
+      "img/produtos-games/videogame-portatil-1.webp",
+      "img/produtos-games/videogame-portatil-2.webp",
+      "img/produtos-games/videogame-portatil-3.webp",
+      "img/produtos-games/videogame-portatil-4.webp",
+      "img/produtos-games/videogame-portatil-5.webp"
+     
+
+      
+      
+    ]
+  },
+  {
+    "id": 54,
+    "nomeProduto": "Console Xbox One X - 1TB - Preto",
+    "fabricante": "Microsoft",
+    "categoria": "Games",
+    "preco": "R$ 2.499,90",
+"descricaoDetalhada": " Os jogos ficam melhores no xbox one x. Experimente a potência 40% maior que em qualquer outro console. Graças aos 6 teraflops de poder de processamento gráfico e blu-ray player 4k seus jogos ficam mais divertidos e envolventes..",
+    "linkAfiliado": "https://amzn.to/44kXhaP",
+    "imagens": [
+      "img/produtos-games/xbox-one-amazon-1.jpg",
+      "img/produtos-games/xbox-one-amazon-2.jpg",
+      "img/produtos-games/xbox-one-amazon-3.jpg"
+      
+      
+    ]
+  },
+  {
+    "id": 55,
+    "nomeProduto": "Headphone Fone de Ouvido Havit HV-H2002d",
+    "fabricante": "Havit",
+    "categoria": "Games",
+    "preco": "R$ 159,90",
+    "descricaoDetalhada": "Headphone Fone de Ouvido Havit HV-H2002d, Gamer, com Microfone, Falante 53mm, Plug 3.5mm: compatível com XBOX ONE e PS4, HAVIT, HV-H2002d e Outros.",
+    "linkAfiliado": "https://amzn.to/4n3G9ig",
+    "imagens": [
+      "img/produtos-games/headphone-1.jpg",
+      "img/produtos-games/headphone-2.jpg",
+      "img/produtos-games/headphone-3.jpg",
+      "img/produtos-games/headphone-4.jpg",
+      "img/produtos-games/headphone-5.jpg"
+      
+    
+    ]
+  },
+  {
+    "id": 56,
+    "nomeProduto": "Dell - KM3322W, Teclado e Mouse sem fio, Preto",
+    "fabricante": "Dell",
+    "categoria": "Games",
+    "preco": "R$ 139,00",
+    "descricaoDetalhada": "Compatível com: Apple MacOS, FreeDOS, Android, Google Chrome OS, Linux 6.x, Microsoft Windows 7/8.1/10, Windows 11.",
+    "linkAfiliado": "https://amzn.to/4e5oAdG",
+    "imagens": [
+      "img/produtos-games/teclado-pc-1.jpg",
+      "img/produtos-games/teclado-pc-2.jpg",
+      "img/produtos-games/teclado-pc-3.jpg",
+      "img/produtos-games/teclado-pc-4.jpg"
+      
+    
+    ]
+  },
+  {
+    "id": 57,
+    "nomeProduto": "Samsung T350 - Monitor Gamer, 24\", FHD, 75Hz, HDMI, VGA, Freesync, Preto",
+    "fabricante": "Samsung",
+    "categoria": "Games",
+    "preco": "R$ 577,00",
+    "descricaoDetalhada": "Eco Saving Plus, Eye Saver Mode, Flicker Free, Game mode, Image Size, FreeSync, Off Timer Plus.",
+    "linkAfiliado": "https://amzn.to/4l22PgW",
+    "imagens": [
+      "img/produtos-games/monitor-gamer-1.jpg",
+      "img/produtos-games/monitor-gamer-2.jpg",
+      "img/produtos-games/monitor-gamer-3.jpg",
+      "img/produtos-games/monitor-gamer-4.jpg"
+    
+      
+    
+    ]
+  },
+  {
+    "id": 58,
+    "nomeProduto": "Tablet Samsung Galaxy Tab S6 Lite (2024)",
+    "fabricante": "Samsung",
+    "categoria": "Games",
+    "preco": "R$ 1.781,10",
+    "descricaoDetalhada": "Tablet Samsung Galaxy Tab S6 Lite (2024), 64GB, 4GB RAM, Tela Imersiva de 10.4', Câmera Traseira 8MP, Câmera frontal de 5MP, Wifi, Android 14.",
+    "linkAfiliado": "https://amzn.to/4mXN5NN",
+    "imagens": [
+      "img/produtos-games/tablet-samsung-1.jpg",
+      "img/produtos-games/tablet-samsung-2.jpg",
+      "img/produtos-games/tablet-samsung-3.jpg",
+      "img/produtos-games/tablet-samsung-4.jpg"
+      
+    
+    ]
+  },
+
+  
+
+
+  {
+    "id": 101,
+    "nomeProduto": "Microsoft 365 Personal",
+    "fabricante": "Jk informatica",
+    "categoria": "Informática",
+    "preco": "R$ 97,90",
+    "descricaoDetalhada": "Microsoft 365 Personal - Válido Por 12 Meses ou Vitalicio - 1TB OneDrive (Convite Family).",
+    "linkAfiliado": "https://s.shopee.com.br/2B330gYRqx",
+    "imagens": [
+      "img/produtos-informatica/Microsoft-365-1.webp",
+      "img/produtos-informatica/Microsoft-365-2.webp",
+      "img/produtos-informatica/Microsoft-365-3.webp"
+     
+    ]
+  },
+  {
+    "id": 102,
+    "nomeProduto": "Hub USB 2.0 com 7 Portas",
+    "fabricante": "HUBS",
+    "categoria": "Informática",
+    "preco": "R$ 45,90",
+    "descricaoDetalhada": "Hub USB 2.0 com 7 Portas, Extensor Pen Drive Hd, Alta Velocidade Laptop Pc Notebook Carregamento Rápido Expansão Aumento Dispositivos Múltiplos, Interruptor On/Off e LED Indicador.",
+    "linkAfiliado": "https://amzn.to/43Gv4fp",
+    "imagens": [
+      "img/produtos-informatica/hub-usb-1.jpg",
+      "img/produtos-informatica/hub-usb-2.jpg",
+      "img/produtos-informatica/hub-usb-3.jpg",
+      "img/produtos-informatica/hub-usb-4.jpg",
+      "img/produtos-informatica/hub-usb-5.jpg"
+      
+      
+      
+    ]
+  },
+  {
+    "id": 103,
+    "nomeProduto": "PlayStation®5 Slim Edição Digital com 2 Jogos",
+    "fabricante": "playstation",
+    "categoria": "Informática",
+    "preco": "R$ 3.254,07",
+    "descricaoDetalhada": "PlayStation®5 Slim Edição Digital com 2 Jogos.1TB de armazenamento: Tenha seus jogos favoritos prontos e esperando para você começar a jogar com 1TB de armazenamento SSD integrado",
+    "linkAfiliado": "https://amzn.to/4kXAPuJ",
+    "imagens": [
+      "img/produtos-informatica/ps5-1.jpg",
+      "img/produtos-informatica/ps5-2.jpg",
+      "img/produtos-informatica/ps5-3.jpg",
+      "img/produtos-informatica/ps5-4.jpg"
+      
+     
+    ]
+  },
+  {
+    "id": 104,
+    "nomeProduto": "PC Home Office Core i5",
+    "fabricante": "TOP SYSTEM INFORMÁTICA",
+    "categoria": "Informática",
+    "preco": "R$ 661,19",
+    "descricaoDetalhada": "PC HOME OFFICE CORE I5 3470, 16GB DDR3, SSD 240GB, FONTE BIVOLT.",
+    "linkAfiliado": "https://amzn.to/402DFqh",
+    "imagens": [
+      "img/produtos-informatica/pc-home-office-1.jpg",
+      "img/produtos-informatica/pc-home-office-2.jpg",
+      "img/produtos-informatica/pc-home-office-3.jpg",
+      "img/produtos-informatica/pc-home-office-4.jpg",
+      "img/produtos-informatica/pc-home-office-5.jpg"
+     
+    ]
+  },
+  {
+    "id": 105,
+    "nomeProduto": "Fone De Ouvido Sem Fio",
+    "fabricante": "Lenovo",
+    "categoria": "Informática",
+    "preco": "R$ 72,80",
+    "descricaoDetalhada": "Fone De Ouvido Sem Fio, GM2 Pro TWS Gamer Bluetooth 5.3 De Baixa Latência 9D Stereo Com Microfone Para Jogos tipo C - bateria de longa duraçao - original.",
+    "linkAfiliado": "https://amzn.to/4e2uHzp",
+    "imagens": [
+      "img/produtos-informatica/fone-de-ouvido-sem-fio-1.jpg",
+      "img/produtos-informatica/fone-de-ouvido-sem-fio-2.jpg",
+      "img/produtos-informatica/fone-de-ouvido-sem-fio-3.jpg",
+      "img/produtos-informatica/fone-de-ouvido-sem-fio-4.jpg",
+      "img/produtos-informatica/fone-de-ouvido-sem-fio-5.jpg"
+     
+    ]
+  
+  },
+  {
+    "id": 106,  
+    "nomeProduto": "Fone de Ouvido Gamer Bluetooth 5.2",
+    "fabricante": "ILID",
+    "categoria": "Informática",
+    "preco": "R$ 199,00",
+    "descricaoDetalhada": "ILID Fone de Ouvido Gamer Bluetooth 5.2 com Microfone Removível,Conexão Dual(Sem Fio/Cabo 3.5mm),Alto-Falante 50mm,Surround 7.1,RGB,Bateria 1000mAh-Headset para PC/PS4/Escritório/TV(Preto).",
+    "linkAfiliado": "https://amzn.to/3SN6mUo",
+    "imagens": [
+      "img/produtos-informatica/fone-gamer-bluetooth-1.jpg",
+      "img/produtos-informatica/fone-gamer-bluetooth-2.jpg",
+      "img/produtos-informatica/fone-gamer-bluetooth-3.jpg",
+      "img/produtos-informatica/fone-gamer-bluetooth-4.jpg",
+      "img/produtos-informatica/fone-gamer-bluetooth-5.jpg"
+      
+      
+    ]
+  },
+  {
+    "id": 107,
+    "nomeProduto": "Hd Interno 2tb Sata 3 64mb 5900rpm 3,5 Pull ST2000VM003/2 Seagate",
+    "fabricante": "Seagate",
+    "categoria": "Informática",
+    "preco": "R$ 377,33",
+    "descricaoDetalhada": "Hd Interno 2tb Sata 3 64mb 5900rpm 3,5 Pull ST2000VM003/2 Seagate.",
+    "linkAfiliado": "https://amzn.to/43XJ0jM",
+    "imagens": [
+      "img/produtos-informatica/hd-interno-1.jpg",
+      "img/produtos-informatica/hd-interno-2.jpg"
+      
+      
+      
+    ]
+  },
+  {
+    "id": 108,
+    "nomeProduto": "HD Externo Toshiba 1TB Canvio Basics Preto HDTB510XK3AA",
+    "fabricante": "Toshiba",
+    "categoria": "Informática",
+    "preco": "R$ 423,00",
+    "descricaoDetalhada": "HD Externo Toshiba 1TB Canvio Basics Preto HDTB510XK3AA.",
+    "linkAfiliado": "https://amzn.to/4jJVEJa",
+    "imagens": [
+      "img/produtos-informatica/hd-externo-toshiba-1.jpg",
+      "img/produtos-informatica/hd-externo-toshiba-2.jpg",
+      "img/produtos-informatica/hd-externo-toshiba-3.jpg",
+      "img/produtos-informatica/hd-externo-toshiba-4.jpg"
+      
+      
+      
+      
+    ]
+  },
+  {
+    "id": 109,
+    "nomeProduto": "HD Portátil Expansion 2Tb, Seagate, Stea2000400",
+    "fabricante": "Seagate",
+    "categoria": "Informática",
+    "preco": "R$ 515,90",
+    "descricaoDetalhada": "HD Portátil Expansion 2Tb, Seagate, Stea2000400.",
+    "linkAfiliado": "https://amzn.to/4lnfonp",
+    "imagens": [
+      "img/produtos-informatica/hd-portatil-seagate-1.jpg",
+      "img/produtos-informatica/hd-portatil-seagate-2.jpg",
+      "img/produtos-informatica/hd-portatil-seagate-3.jpg",
+      "img/produtos-informatica/hd-portatil-seagate-4.jpg"
+     
+      
+      
+      
+      
+    ]
+  },
+  {
+    "id": 110,
+    "nomeProduto": "Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED",
+    "fabricante": "Logitech",
+    "categoria": "Informática",
+    "preco": "R$ 222,21",
+    "descricaoDetalhada": "Mouse Gamer Sem Fio Logitech G305 LIGHTSPEED com 6 Botões Programáveis e Até 12.000 DPI - Preto.",
+    "linkAfiliado": "https://amzn.to/4e5lmH4",
+    "imagens": [
+      "img/produtos-informatica/mouse-gamer-logitech-1.jpg",
+      "img/produtos-informatica/mouse-gamer-logitech-2.jpg",
+      "img/produtos-informatica/mouse-gamer-logitech-3.jpg",
+      "img/produtos-informatica/mouse-gamer-logitech-4.jpg"
+     
+      
+      
+      
+      
+    ]
+  },
+  {
+    "id": 111,
+    "nomeProduto": "SSD Sandisk Plus 1TB SATA III 2,5",
+    "fabricante": "SanDisk",
+    "categoria": "Informática",
+    "preco": "R$ 430,00",
+    "descricaoDetalhada": "O SanDisk SSD Plus é a escolha perfeita para turbinar seu PC. Com capacidade de 1TB, oferece desempenho superior, tornando inicializações, desligamentos e transferências de dados mais rápidos que nunca. Com resistência a choques e vibrações, garante segurança para seus dados.",
+    "linkAfiliado": "https://amzn.to/3FTUD3k",
+    "imagens": [
+      "img/produtos-informatica/ssd-sandisk-1.jpg",
+      "img/produtos-informatica/ssd-sandisk-2.jpg",
+      "img/produtos-informatica/ssd-sandisk-3.jpg",
+      "img/produtos-informatica/ssd-sandisk-4.jpg"
+    
+      
+      
+      
+      
+    ]
+  },
+
+
+
+
+
+  {
+    "id": 151,
+    "nomeProduto": "Kit de Ferramentas Essenciais",
+    "fabricante": "HomeTools",
+    "categoria": "Variados",
+    "preco": "R$ 142,89",
+    "descricaoDetalhada": "Kit Jogo Ferramentas 248 Peças Maleta Serviço Gerais Soquetes Chaves Combinada Luva Pigmentada.",
+    "linkAfiliado": "https://s.shopee.com.br/5VJQI2ZrIL",
+    "imagens": [
+      "img/produtos-variados/kit-ferramentas-1.jpg",
+      "img/produtos-variados/kit-ferramentas-2.jpg",
+      "img/produtos-variados/kit-ferramentas-3.jpg",
+      "img/produtos-variados/kit-ferramentas-4.jpg",
+      "img/produtos-variados/kit-ferramentas-5.jpg",
+      "img/produtos-variados/kit-ferramentas-6.jpg",
+      "img/produtos-variados/kit-ferramentas-7.jpg"
+        
+
+
+    ]
+  },
+  {
+    "id": 152,
+    "nomeProduto": "jogos de Lençol Casal Queen",
+    "fabricante": "Bordados Rodrigo",
+    "categoria": "Variados",
+    "preco": "R$ 21,90",
+    "descricaoDetalhada": "Jogos De Lençol Com Elástico Casal Queen 3 Peças Tecido Liso Luxo.",
+    "linkAfiliado": "https://s.shopee.com.br/4L7XTJcsbl",
+    "imagens": [
+      "img/produtos-variados/jogo-de-lecol-1.webp",
+      "img/produtos-variados/jogo-de-lecol-2.webp",
+      "img/produtos-variados/jogo-de-lecol-3.webp",
+      "img/produtos-variados/jogo-de-lecol-4.webp"
+      
+    ]
+  },
+  {
+    "id": 153,
+    "nomeProduto": "Mochila Faculdade Alça Reforçada Escolar Lona Executiva Alta Qualidade WLXY KV2201",
+    "fabricante": "WLXY Bolsas e Mochilas",
+    "categoria": "Variados",
+    "preco": "R$ 77,88",
+    "descricaoDetalhada": "Mochila Faculdade Alça Reforçada Escolar Lona Executiva Alta Qualidade WLXY KV2201.",
+    "linkAfiliado": "https://s.shopee.com.br/708IeovmMZ",
+    "imagens": [
+      "img/produtos-variados/mochila-1.webp",
+      "img/produtos-variados/mochila-2.webp",
+      "img/produtos-variados/mochila-3.webp",
+      "img/produtos-variados/mochila-4.webp"
+     
+    ]
+  },
+  {
+    "id": 154,
+    "nomeProduto": "Garrafa Térmica Inoxidável Portátil 1200ml/1.2L",
+    "fabricante": "ROMANTIC CROWN",
+    "categoria": "Variados",
+    "preco": "R$ 39,99",
+    "descricaoDetalhada": "ROMANTIC CROWN Copo Térmico Inox Portátil 1200ml/1.2L Garrafa Térmica Inoxidável com Tampa e Canudo.",
+    "linkAfiliado": "https://s.shopee.com.br/4L7XUeVkaF",
+    "imagens": [
+      "img/produtos-variados/copo-termico-1.webp",
+      "img/produtos-variados/copo-termico-2.webp",
+      "img/produtos-variados/copo-termico-3.webp",
+      "img/produtos-variados/copo-termico-4.webp",
+      "img/produtos-variados/copo-termico-5.webp",
+      "img/produtos-variados/copo-termico-6.webp",
+      "img/produtos-variados/copo-termico-7.webp",
+      "img/produtos-variados/copo-termico-8.webp"
+     
+    ]
+  },
+  {
+    "id": 155,
+    "nomeProduto": "Livro de Colorir Bobbie Goods + Kit 48 Canetinhas Dupla",
+    "fabricante": "Bobbie Goods ",
+    "categoria": "Variados",
+    "preco": "R$ 59,99",
+    "descricaoDetalhada": "Livro de Colorir Bobbie Goods + Kit 48 Canetinhas Dupla - 20 Desenhos, Capa Mole, A5, Pronta Entrega.",
+    "linkAfiliado": "https://s.shopee.com.br/6KsbnZXEuZ",
+    "imagens": [
+      "img/produtos-variados/livro-de-colorir-1.jpg",
+      "img/produtos-variados/livro-de-colorir-2.jpg",
+      "img/produtos-variados/livro-de-colorir-3.jpg",
+      "img/produtos-variados/livro-de-colorir-4.jpg",
+      "img/produtos-variados/livro-de-colorir-5.jpg",
+      "img/produtos-variados/livro-de-colorir-6.jpg",
+      "img/produtos-variados/livro-de-colorir-7.jpg"
+     
+    ]
+  },
+  {
+    "id": 156,
+    "nomeProduto": "Parafusadeira/Furadeira 21V",
+    "fabricante": "ECOSEN ",
+    "categoria": "Variados",
+    "preco": "R$ 99,99",
+    "descricaoDetalhada": "Parafusadeira/Furadeira 21V C/ Kit Maleta COM DUAS BATERIAS Kit de 28pcs.",
+    "linkAfiliado": "https://s.shopee.com.br/1BAVfFjQ3Q",
+    "imagens": [
+      "img/produtos-variados/parafusadeira-ecosen-1.jpg",
+      "img/produtos-variados/parafusadeira-ecosen-2.jpg",
+      "img/produtos-variados/parafusadeira-ecosen-3.jpg",
+      "img/produtos-variados/parafusadeira-ecosen-4.jpg",
+      "img/produtos-variados/parafusadeira-ecosen-5.jpg",
+      "img/produtos-variados/parafusadeira-ecosen-6.jpg"
+     
+      
+    ]
+  },
+  {
+    "id": 157,
+    "nomeProduto": "Robô Varredora/Aspirador De Pó 1200PA Automática ",
+    "fabricante": "Robot Sweeper",
+    "categoria": "Variados",
+    "preco": "R$ 54,99",
+    "descricaoDetalhada": "Robô Varredora/Aspirador De Pó 1200PA Automática 3 Em 1 Limpeza Doméstica Robótico Inteligente E Silencioso.",
+    "linkAfiliado": "https://s.shopee.com.br/7fNzPlJjcw",
+    "imagens": [
+      "img/produtos-variados/robô-aspirador-1.jpg",
+      "img/produtos-variados/robô-aspirador-2.jpg",
+      "img/produtos-variados/robô-aspirador-3.jpg"
+      
+      
+    ]
+  },
+  {
+    "id": 158,
+    "nomeProduto": "Lavadora De Alta Pressão Lav1300 Libras",
+    "fabricante": "Vonder",
+    "categoria": "Variados",
+    "preco": "R$ 309,90",
+    "descricaoDetalhada": "Lavadora De Alta Pressão Lav1300 Libras Vonder 1.300lbf.",
+    "linkAfiliado": "https://s.shopee.com.br/7phPcTV04n",
+    "imagens": [
+      "img/produtos-variados/vap-vonder-1.webp",
+      "img/produtos-variados/vap-vonder-2.webp",
+      "img/produtos-variados/vap-vonder-3.webp",
+      "img/produtos-variados/vap-vonder-4.webp"
+    ]
+  },
+  {
+    "id": 159,
+    "nomeProduto": "Jogo De Chave Catraca ",
+    "fabricante": "soquetes ",
+    "categoria": "Variados",
+    "preco": "R$ 29,30",
+    "descricaoDetalhada": "40 Peças / 46 Peças Jogo De Chave Catraca Caixa De Ferramentas Completa Reversível Soquetes Maleta.",
+    "linkAfiliado": "https://s.shopee.com.br/4Ao7GWY29p",
+    "imagens": [
+      "img/produtos-variados/jogo-de-chave-catraca-1.webp",
+      "img/produtos-variados/jogo-de-chave-catraca-2.webp",
+      "img/produtos-variados/jogo-de-chave-catraca-3.webp",
+      "img/produtos-variados/jogo-de-chave-catraca-4.webp",
+      "img/produtos-variados/jogo-de-chave-catraca-5.webp",
+      "img/produtos-variados/jogo-de-chave-catraca-6.webp",
+      "img/produtos-variados/jogo-de-chave-catraca-7.webp",
+      "img/produtos-variados/jogo-de-chave-catraca-8.webp"
+     
+
+     
+    ]
+  }
+  ,
+  {
+    "id": 160,
+    "nomeProduto": "liquidificador Mondial, Turbo Power 550W, 220V, Preto, 2,2 L - L-99 FB",
+    "fabricante": "Mondial",
+    "categoria": "Variados",
+    "preco": "R$ 89,90",
+    "descricaoDetalhada": "Liquidificador Mondial, Turbo Power 550W, 220V, Preto, 2,2 L - L-99 FB.",
+    "linkAfiliado": "https://amzn.to/3ZWbcCr",
+    "imagens": [
+      "img/produtos-variados/liquidificador-mondial-1.jpg",
+      "img/produtos-variados/liquidificador-mondial-2.jpg",
+      "img/produtos-variados/liquidificador-mondial-3.jpg",
+      "img/produtos-variados/liquidificador-mondial-4.jpg"
+      
+     
+      
+    ]
+  }
+  ,
+  {
+    "id": 161,
+    "nomeProduto": "sanduicheira Elétrica Cadence Click - 127V",
+    "fabricante": "Cadence",
+    "categoria": "Variados",
+    "preco": "R$ 109,00",
+    "descricaoDetalhada": "Sanduicheira Elétrica Cadence Click - 127V.",
+    "linkAfiliado": "https://amzn.to/43W1ZeR",
+    "imagens": [
+      "img/produtos-variados/sanduicheira-cadence-1.jpg",
+      "img/produtos-variados/sanduicheira-cadence-2.jpg",
+      "img/produtos-variados/sanduicheira-cadence-3.jpg",
+      "img/produtos-variados/sanduicheira-cadence-4.jpg"
+    
+      
+    ]
+  }
+  ,
+  {
+    "id": 162,
+    "nomeProduto": "Fire TV Stick HD",
+    "fabricante": "Amazon",
+    "categoria": "Variados",
+    "preco": "R$ 332,10",
+    "descricaoDetalhada": "Fire TV Stick HD (Última geração) | Com controle remoto por voz com Alexa (inclui comandos de TV), controles de casa inteligente e streaming em HD.",
+    "linkAfiliado": "https://amzn.to/4jOcGpw",
+    "imagens": [
+      "img/produtos-variados/fire-tv-stick-1.jpg",
+      "img/produtos-variados/fire-tv-stick-2.jpg",
+      "img/produtos-variados/fire-tv-stick-3.jpg",
+      "img/produtos-variados/fire-tv-stick-4.jpg"
+      
+      
+      
+    ]
+  },
+  {
+    "id": 163,
+    "nomeProduto": "Echo Pop (Última geração) | Smart speaker compacto com som envolvente e Alexa | Cor Preta",
+    "fabricante": "Echo",
+    "categoria": "Variados",
+    "preco": "R$ 338,99",
+    "descricaoDetalhada": "Echo Pop (Última geração) | Smart speaker compacto com som envolvente e Alexa | Cor Preta.",
+    "linkAfiliado": "https://amzn.to/4l24BP8",
+    "imagens": [
+      "img/produtos-variados/echo-pop-1.jpg",
+      "img/produtos-variados/echo-pop-2.jpg",
+      "img/produtos-variados/echo-pop-3.jpg",
+      "img/produtos-variados/echo-pop-4.jpg"
+      
+      
+      
+      
+    ]
+  },
+  {
+    "id": 164,
+    "nomeProduto": "Parafusadeira e Furadeira à Bateria 12V BPF-12K3",
+    "fabricante": "WAP",
+    "categoria": "Variados",
+    "preco": "R$ 161,41",
+    "descricaoDetalhada": "WAP Parafusadeira e Furadeira à Bateria 12V BPF-12K3, Kit de 13 Acessórios e Maleta, Empunhadura Emborrachada, Bivolt.",
+    "linkAfiliado": "https://amzn.to/4jIPGIv",
+    "imagens": [
+      "img/produtos-variados/parafusadeira-wap-1.jpg",
+      "img/produtos-variados/parafusadeira-wap-2.jpg",
+      "img/produtos-variados/parafusadeira-wap-3.jpg",
+      "img/produtos-variados/parafusadeira-wap-4.jpg"
+     
+    
+    ]
+  },
+  {
+    "id": 165,
+    "nomeProduto": "Mor - Escada Alumínio 4 Degraus",
+    "fabricante": "Mor",
+    "categoria": "Variados",
+    "preco": "R$ 130,76",
+    "descricaoDetalhada": "Mor - Escada Alumínio 4 Degraus.",
+    "linkAfiliado": "https://amzn.to/3Hz65BV",
+    "imagens": [
+      "img/produtos-variados/escada-mor-1.jpg",
+      "img/produtos-variados/escada-mor-2.jpg",
+      "img/produtos-variados/escada-mor-3.jpg",
+      "img/produtos-variados/escada-mor-4.jpg"
+      
+      
+      
+    ]
+  },
+  {
+    "id": 166,
+    "nomeProduto": "Fone de Ouvido Sem Fio JBL Wave Buds 2",
+    "fabricante": "JBL",
+    "categoria": "Variados",
+    "preco": "R$ 274,53",
+    "descricaoDetalhada": "Fone de Ouvido Sem Fio, JBL, Bluetooth, Wave Buds 2, Intra Auricular, Sem Fio, Resistente À Água e Poeira - Preto.",
+    "linkAfiliado": "https://amzn.to/4009KyY",
+    "imagens": [
+      "img/produtos-variados/fone-jbl-1.jpg",
+      "img/produtos-variados/fone-jbl-2.jpg",
+      "img/produtos-variados/fone-jbl-3.jpg",
+      "img/produtos-variados/fone-jbl-4.jpg"
+     
+     
+      
+      
+    ]
+  },
+  {
+    "id": 167,
+    "nomeProduto": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido Hialurônico",
+    "fabricante": "CeraVe",
+    "categoria": "Variados",
+    "preco": "R$ 79,90",
+    "descricaoDetalhada": "CeraVe, Loção Hidratante Corporal, com textura Fluida e Ácido Hialurônico.",
+    "linkAfiliado": "https://amzn.to/44bfxEm",
+    "imagens": [
+      "img/produtos-variados/cerave-locao-1.jpg",
+      "img/produtos-variados/cerave-locao-2.jpg",
+      "img/produtos-variados/cerave-locao-3.jpg",
+      "img/produtos-variados/cerave-locao-4.jpg"
+      
+      
+      
+      
+    ]
+  },
+  {
+    "id": 168,
+    "nomeProduto": "Replay Kids Carrinho de Controle Remoto 4x4 Gira 360 OffRoad",
+    "fabricante": "Replay Kids",
+    "categoria": "Variados",
+    "preco": "R$ 199,00",
+    "descricaoDetalhada": "Replay Kids Carrinho de Controle Remoto 4x4 Gira 360 OffRoad.",
+    "linkAfiliado": "https://amzn.to/45eKwAy",
+    "imagens": [
+      "img/produtos-variados/carrinho-controle-remoto-1.jpg",
+      "img/produtos-variados/carrinho-controle-remoto-2.jpg",
+      "img/produtos-variados/carrinho-controle-remoto-3.jpg",
+      "img/produtos-variados/carrinho-controle-remoto-4.jpg"
+      
+    ]
+  },
+  {
+    "id": 169,
+    "nomeProduto": "Aspirador de Pó Vertical com Fio Portátil 2 em 1 Electrolux STK15",
+    "fabricante": "Electrolux",
+    "categoria": "Variados",
+    "preco": "R$ 199,00",
+    "descricaoDetalhada": "Electrolux, Aspirador pó vertical com fio portátil de mão 2 em 1 potente 1450W cabo 6m capacidade 1,6L filtro HEPA Electrolux STK15 127V Cinza Urban Grey STK.",
+    "linkAfiliado": "https://amzn.to/4jL2FcQ",
+    "imagens": [
+      "img/produtos-variados/aspirador-electrolux-1.jpg",
+      "img/produtos-variados/aspirador-electrolux-2.jpg",
+      "img/produtos-variados/aspirador-electrolux-3.jpg",
+      "img/produtos-variados/aspirador-electrolux-4.jpg"
+     
+      
+      
+    ]
+  },
+  {
+    "id": 170,
+    "nomeProduto": "Mop Giratório Fit, Balde 8 litros, limpa, centrifuga, lava e seca, MOP5010, Flash Limp",
+    "fabricante": "Flash Limp",
+    "categoria": "Variados",
+    "preco": "R$ 66,48",
+    "descricaoDetalhada": "Mop Giratório Fit, Balde 8 litros, limpa, centrifuga, lava e seca, MOP5010, Flash Limp.",
+    "linkAfiliado": "https://amzn.to/43Wm6t7",
+    "imagens": [
+      "img/produtos-variados/mop-giratorio-1.jpg",
+      "img/produtos-variados/mop-giratorio-2.jpg",
+      "img/produtos-variados/mop-giratorio-3.jpg",
+      "img/produtos-variados/mop-giratorio-4.jpg"
+      
+     
+      
+    ]
+  }
+
+]
